@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/node.js-007396?style=flat-square&logo=node.js&logoColor=white">
 <br>
  <img src="https://img.shields.io/badge/spring-007396?style=flat-square&logo=spring&logoColor=white">
- <img src="https://img.shields.io/badge/aws-007396?style=flat-square&logo=aws&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazone aws-007396?style=flat-square&logo=Amazone aws&logoColor=white">
 <h3>📫contact<h3><br>
  
 <a href="https://www.notion.so/Lee-Chan-ho-e3810ba0e3784571b665e2057f7d0dca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
