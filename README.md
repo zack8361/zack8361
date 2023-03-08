@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
   
 <h3>📫contact<h3><br>
-<a href="https://gogimandu.notion.site/e422c0cf1b504859960e1dae7df2aeb0"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://jack1150.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><br>
+<a href="https://www.notion.so/Lee-Chan-ho-e3810ba0e3784571b665e2057f7d0dca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://kong8361.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><br>
   <br>
 <div/>
