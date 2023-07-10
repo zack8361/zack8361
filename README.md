@@ -20,6 +20,8 @@
 <br>
  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
  <img src="https://img.shields.io/badge/Amazon aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white">
+ <a href="#"><img src="https://camo.githubusercontent.com/d891718aad2153fb86d0027665e47f5f477e4e16598122347f440aea92ce96ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width: 100%;"></a>
+
 <h3>📫contact<h3><br>
  
 <a href="https://www.notion.so/Lee-Chan-ho-e3810ba0e3784571b665e2057f7d0dca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
