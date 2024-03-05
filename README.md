@@ -29,11 +29,7 @@
 <br>
 <hr>
 <br>
- <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white">
- <a href="#"><img src="https://camo.githubusercontent.com/d891718aad2153fb86d0027665e47f5f477e4e16598122347f440aea92ce96ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black" style="max-width: 100%;"></a>
-
-<h3>📫contact<h3><br>
+<div align="center" dir="auto"><div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">🖥️Contact🖥️</h3><a id="user-content-stacks-" class="anchor-element" aria-label="Permalink: 📚Stacks📚 " href="#stacks-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div></div>
  
 <a href="https://www.notion.so/Lee-Chan-ho-e3810ba0e3784571b665e2057f7d0dca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://kong8361.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
