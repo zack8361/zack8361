@@ -51,6 +51,18 @@
 <td>2021학년도 한성대학교 컴퓨터공학부 트랙회장</td>
 <td>2021.03~2022.02</td>
 </tr>
+<tr>
+<td>한성대학교 IPP 기업실습 (주)크리스피드</td>
+<td>2022.09~2022.12</td>
+</tr>
+<tr>
+<td>POSCO X CODING ON(Web full stack bootcamp)</td>
+<td>2023.01~2023.04</td>
+</tr>
+<tr>
+<td>커넥트웨이브(주)입사 / 다나와 기업부설연구소</td>
+<td>2022.08~</td>
+</tr>
 </tbody>
 </table>
 <br>
