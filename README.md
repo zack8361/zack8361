@@ -28,8 +28,30 @@
 <a href="https://www.notion.so/Lee-Chan-ho-e3810ba0e3784571b665e2057f7d0dca"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://kong8361.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <hr>
-<p dir="auto"><a href="https://hits.seeyoufarm.com" rel="nofollow"><img src="https://camo.githubusercontent.com/6c8dd54ea485f4af31e9945e1fcfc6188475d06032683eb3438e8af38ea9e71b/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d2532464877616e672d596f6f6e47797526636f756e745f62673d253233323032303230267469746c655f62673d2532333535353535352669636f6e3d6769746875622e7376672669636f6e5f636f6c6f723d253233453745374537267469746c653d6869747326656467655f666c61743d74727565" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwang-YoonGyu&amp;count_bg=%23202020&amp;title_bg=%23555555&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=hits&amp;edge_flat=true" style="max-width: 100%;"></a></p>
 <hr>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">😁Info😁</h3><a id="user-content-info" class="anchor-element" aria-label="Permalink: 😁Info😁" href="#info"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<table>
+<thead>
+<tr>
+<th>경력</th>
+<th>기간</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>한성대학교 컴퓨터공학부 17학번</td>
+<td>2017.03~2023.02</td>
+</tr>
+<tr>
+<td>2021학년도 한성대학교 컴퓨터공학부 부학생회장</td>
+<td>2021.03~2022.02</td>
+</tr>
+<tr>
+<td>코딩하는 쿼카 팀장</td>
+<td>2021.05~ing</td>
+</tr>
+</tbody>
+</table>
 <br>
 <br>
   
